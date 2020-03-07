@@ -4,3 +4,4 @@ dwm
 *.orig
 *.diff
 
+.ccls-cache/
